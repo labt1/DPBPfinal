@@ -9,4 +9,4 @@ Desarrollado en el IDE de Eclipse
   3. Ejecutar el jar para iniciar el servidor
 ```cmd
     java -jar target/ws-1.0-snapshot.jar
-```js 
+```
